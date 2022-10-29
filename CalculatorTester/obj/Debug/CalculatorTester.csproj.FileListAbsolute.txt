@@ -15,3 +15,21 @@ C:\Users\ASUS\source\repos\Calculator\CalculatorTester\obj\Debug\CalculatorTeste
 C:\Users\ASUS\source\repos\Calculator\CalculatorTester\obj\Debug\CalculatorTester.csproj.CopyComplete
 C:\Users\ASUS\source\repos\Calculator\CalculatorTester\obj\Debug\CalculatorTester.dll
 C:\Users\ASUS\source\repos\Calculator\CalculatorTester\obj\Debug\CalculatorTester.pdb
+C:\Users\ASUS\OneDrive\Tài liệu\Demo\Calculator\CalculatorTester\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\ASUS\OneDrive\Tài liệu\Demo\Calculator\CalculatorTester\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\ASUS\OneDrive\Tài liệu\Demo\Calculator\CalculatorTester\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\ASUS\OneDrive\Tài liệu\Demo\Calculator\CalculatorTester\bin\Debug\TestData.csv
+C:\Users\ASUS\OneDrive\Tài liệu\Demo\Calculator\CalculatorTester\bin\Debug\CalculatorTester.dll
+C:\Users\ASUS\OneDrive\Tài liệu\Demo\Calculator\CalculatorTester\bin\Debug\CalculatorTester.pdb
+C:\Users\ASUS\OneDrive\Tài liệu\Demo\Calculator\CalculatorTester\bin\Debug\Calculator.exe
+C:\Users\ASUS\OneDrive\Tài liệu\Demo\Calculator\CalculatorTester\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\ASUS\OneDrive\Tài liệu\Demo\Calculator\CalculatorTester\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\ASUS\OneDrive\Tài liệu\Demo\Calculator\CalculatorTester\bin\Debug\Calculator.pdb
+C:\Users\ASUS\OneDrive\Tài liệu\Demo\Calculator\CalculatorTester\bin\Debug\Calculator.exe.config
+C:\Users\ASUS\OneDrive\Tài liệu\Demo\Calculator\CalculatorTester\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\ASUS\OneDrive\Tài liệu\Demo\Calculator\CalculatorTester\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\ASUS\OneDrive\Tài liệu\Demo\Calculator\CalculatorTester\obj\Debug\CalculatorTester.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Tài liệu\Demo\Calculator\CalculatorTester\obj\Debug\CalculatorTester.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Tài liệu\Demo\Calculator\CalculatorTester\obj\Debug\CalculatorTester.csproj.CopyComplete
+C:\Users\ASUS\OneDrive\Tài liệu\Demo\Calculator\CalculatorTester\obj\Debug\CalculatorTester.dll
+C:\Users\ASUS\OneDrive\Tài liệu\Demo\Calculator\CalculatorTester\obj\Debug\CalculatorTester.pdb

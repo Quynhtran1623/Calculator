@@ -7,6 +7,7 @@ namespace CalculatorTester
     [TestClass]
     public class UnitTest1
     {
+        public TestContext TestContext { get; set; }
         private Calculation cal;
         [TestInitialize]
         public void SetUp()
@@ -46,20 +47,20 @@ namespace CalculatorTester
             Calculation c = new Calculation(5, 3);
             Assert.AreEqual(c.Execute("/"), 2);
         }
+        [DataSource("Microsoft.VisualStudio.TestTools.DataSource.CSV",
+ @".\Data\TestData.csv", "TestData#csv", DataAccessMethod.Sequential)]
+        [TestMethod]
+        public void TestWithDataSource()
+        {
+            int a = int.Parse(TestContext.DataRow[0].ToString());
+            int b = int.Parse(TestContext.DataRow[1].ToString());
+            int expected = int.Parse(TestContext.DataRow[2].ToString());
+            Calculation c = new Calculation(a, b);
+            int actual = c.Execute("+");
+            Assert.AreEqual(expected, actual);
+        }
 
     }
 
-
-    internal class Calculation
-    {
-        public Calculation(int v1, int v2)
-        {
-        }
-
-        internal int Execute(string v)
-        {
-            throw new NotImplementedException();
-        }
-    }
 }
 
